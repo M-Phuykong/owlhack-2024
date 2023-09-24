@@ -1,0 +1,14 @@
+.place_image_container_secondary {
+    display: inline-block;
+    position: relative;
+}
+
+.place_image_container_secondary::before {
+    position: absolute;
+    top: -12%;
+    left: -8%;
+    width: 95%;
+    height: 100%;
+    border: 8px solid #000000;
+    content: '';
+}

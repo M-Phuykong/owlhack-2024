@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Fountain of the Sea Horses
+* source:	https://sketchfab.com/3d-models/the-fountain-of-the-sea-horses-966b78a6e4e744d8ac4dc3be20c2de69
+* author:	Taylor (https://sketchfab.com/thoulihan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Fountain of the Sea Horses" (https://sketchfab.com/3d-models/the-fountain-of-the-sea-horses-966b78a6e4e744d8ac4dc3be20c2de69) by Taylor (https://sketchfab.com/thoulihan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,34 @@
+.text {
+  font-size: 8vw;
+    font-weight: 700;
+  letter-spacing: 3px;
+  line-height: 100%;
+  margin: 0 0 2rem 5rem;
+
+  width: 100%;
+  color: transparent;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: black;
+
+  background: linear-gradient(to right, #000000, #000000) no-repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-size: 0%;
+  transition: background-size cubic-bezier(.1,.5,.5,1) 0.5s;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+}
+
+.eat_text {
+
+  text-transform: uppercase;
+  transform: rotate(180deg) translate(-4px);
+  writing-mode: vertical-lr;
+  font-size: 8vw;
+  font-weight: 700;
+  letter-spacing: 1.5rem;
+}

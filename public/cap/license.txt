@@ -1,0 +1,11 @@
+Model Information:
+* title:	Philadelphia Phillies Baseball Hat
+* source:	https://sketchfab.com/3d-models/philadelphia-phillies-baseball-hat-13fe91151ca04f1aa27e1ea8b3877fb1
+* author:	samhh (https://sketchfab.com/samhh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Philadelphia Phillies Baseball Hat" (https://sketchfab.com/3d-models/philadelphia-phillies-baseball-hat-13fe91151ca04f1aa27e1ea8b3877fb1) by samhh (https://sketchfab.com/samhh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

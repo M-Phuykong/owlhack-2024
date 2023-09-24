@@ -1,0 +1,14 @@
+.image_container {
+    display: inline-block;
+    position: relative;
+}
+
+.image_container::before {
+    position: absolute;
+    top: 8%;
+    left: 12%;
+    width: 100%;
+    height: 17rem;
+    border: 8px dotted #000000;
+    content: '';
+}

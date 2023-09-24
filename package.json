@@ -3,12 +3,45 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@mantine/carousel": "^7.0.0",
+    "@mantine/code-highlight": "^7.0.0",
+    "@mantine/core": "^7.0.0",
+    "@mantine/dates": "^7.0.0",
+    "@mantine/dropzone": "^7.0.0",
+    "@mantine/form": "^7.0.0",
+    "@mantine/hooks": "^7.0.0",
+    "@mantine/modals": "^7.0.0",
+    "@mantine/notifications": "^7.0.0",
+    "@mantine/nprogress": "^7.0.0",
+    "@mantine/spotlight": "^7.0.0",
+    "@mantine/tiptap": "^7.0.0",
+    "@react-three/drei": "^9.84.2",
+    "@react-three/fiber": "^8.14.2",
+    "@tabler/icons-react": "^2.35.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@tiptap/extension-link": "^2.1.11",
+    "@tiptap/react": "^2.1.11",
+    "@tiptap/starter-kit": "^2.1.11",
+    "@types/three": "^0.156.0",
+    "api": "^6.1.1",
+    "dayjs": "^1.11.10",
+    "echo3d": "^0.3.13",
+    "embla-carousel-react": "^7.1.0",
+    "framer-motion": "^10.16.4",
+    "gsap": "^3.12.2",
+    "leaflet": "^1.9.4",
+    "openai": "^3.2.0",
     "react": "^18.2.0",
+    "react-animated-cursor": "^2.9.3",
     "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "react-leaflet-cluster": "^2.1.0",
+    "react-modal": "^3.16.1",
+    "react-router-dom": "^6.16.0",
     "react-scripts": "5.0.1",
+    "three": "^0.156.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +67,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "postcss": "^8.4.30",
+    "postcss-preset-mantine": "^1.7.0",
+    "postcss-simple-vars": "^7.0.1",
+    "tailwindcss": "^3.3.3"
   }
 }

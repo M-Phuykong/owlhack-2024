@@ -1,0 +1,39 @@
+
+:root {
+  --mouse-height: 4rem;
+  --mouse-width: calc(var(--mouse-height) * 0.3);
+  --scroll-size: 10px;
+}
+
+.chevron__arrow {
+  width: var(--mouse-width);
+  height: var(--mouse-height);
+  border: 1px solid black;
+  border-radius: calc(var(--mouse-height) / 2);
+  position: relative;
+  animation: move-down 3.5s infinite cubic-bezier(0.5, 0, 0.25, 1);
+}
+.chevron__arrow:after {
+  content: '';
+  width: var(--scroll-size);
+  height: var(--scroll-size);
+  display: block;
+  border-radius: 60%;
+  position: absolute;
+  left: calc(var(--mouse-width) / 2.125 - var(--scroll-size) / 2);
+  background-color: #000000;
+  animation: scroll-down 3.5s infinite cubic-bezier(0.5, 0, 0.25, 1);
+}
+
+@keyframes move-down {
+  0%   { top: 0; }
+  70% { top: calc(var(--mouse-height) * 0.35); }
+  90%   { top: 0; }
+  100%   { top: 0; }
+}
+@keyframes scroll-down {
+  0%   { top: calc(var(--mouse-width) / 2 - var(--scroll-size) / 2); opacity: 1; }
+  70% { top: calc(var(--mouse-height) - var(--mouse-height) * 0.25); opacity: 0; }
+  90%   { top: calc(var(--mouse-width) / 2 - var(--scroll-size) / 2); opacity: 0; }
+  100%   { top: calc(var(--mouse-width) / 2 - var(--scroll-size) / 2); opacity: 1; }
+}

@@ -1,0 +1,37 @@
+Philly Track
+- Tourist guide
+- Food options/recommendations (ar model of location), (chatgpt, yelp place)
+
+
+Northeast:
+Jollibee (40.049290, -75.058620)
+Asad's Hot Chicken: 40.045050, -75.054710
+Philadelphia Mills (40.08749, -74.961693)
+
+UCity:
+Sabrinas Cafe: (39.957851, -75.191048)
+UPenn: (39.952305, -75.193703)
+Drexel University: (39.9539, -75.1869)
+Latao Hotpot and BBQ: (39.955340, -75.197520)
+
+
+Kelly Drive: (39.991960, -75.195100
+Japanese Garden: (39.981400, -75.213577)
+Happy Lamb Hot Pot (39.953979, -75.157043)
+Matcha Maiko (39.955460, -75.155150)
+Round1 (39.952010, -75.157240)
+
+
+Center City:
+Independence Hall: 39.94887, -75.150026
+Art Museum: 39.962631, -75.177673
+City Hall: Latitude: 39.953194, -75.163345
+Love Park: Latitude: 39.954620, -75.164864
+The Cliffs at Callowhill: 39.958900, -75.156900
+
+South Philly:
+FDR Park: 39.905399, -75.173592
+IKEA: 39.916710, -75.140060
+Los Gallos: 39.921200, -75.163260
+Juana Tamale: 39.925620, -75.168430
+
